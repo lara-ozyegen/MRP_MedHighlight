@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore data folder
+data/
+
+# ignore notebooks/process_highlighted.ipynb
+notebooks/process_highlighted.ipynb
