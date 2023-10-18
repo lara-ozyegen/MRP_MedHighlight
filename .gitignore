@@ -399,6 +399,7 @@ FodyWeavers.xsd
 
 # Ignore data folder
 data/
+models/
+analysis
 
-# ignore notebooks/process_highlighted.ipynb
-notebooks/process_highlighted.ipynb
+
