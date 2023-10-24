@@ -401,5 +401,7 @@ FodyWeavers.xsd
 data/
 models/
 analysis
+bert-finetuned-ner/
+bert-finetuned-ner-accelerate/
 
 
