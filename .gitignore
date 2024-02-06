@@ -403,5 +403,5 @@ models/
 analysis
 bert-finetuned-ner/
 bert-finetuned-ner-accelerate/
-
+lstm/
 
