@@ -400,7 +400,6 @@ FodyWeavers.xsd
 # Ignore data folder
 data/
 models/
-analysis
 bert-finetuned-ner/
 bert-finetuned-ner-accelerate/
 lstm/
