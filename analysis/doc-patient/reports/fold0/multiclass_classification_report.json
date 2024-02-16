@@ -1,0 +1,50 @@
+{
+    "precision": {
+        "I-Background": 0.56,
+        "I-Other": 0.852,
+        "I-Problem": 0.801,
+        "I-Test": 0.963,
+        "I-Treatment": 0.746,
+        "O": 0.949,
+        "accuracy": 0.922,
+        "macro avg": 0.812,
+        "weighted avg": 0.922,
+        "macro_wo_O": 0.784
+    },
+    "recall": {
+        "I-Background": 0.875,
+        "I-Other": 0.719,
+        "I-Problem": 0.701,
+        "I-Test": 0.491,
+        "I-Treatment": 0.8,
+        "O": 0.977,
+        "accuracy": 0.922,
+        "macro avg": 0.76,
+        "weighted avg": 0.922,
+        "macro_wo_O": 0.717
+    },
+    "f1-score": {
+        "I-Background": 0.683,
+        "I-Other": 0.78,
+        "I-Problem": 0.748,
+        "I-Test": 0.65,
+        "I-Treatment": 0.772,
+        "O": 0.963,
+        "accuracy": 0.922,
+        "macro avg": 0.766,
+        "weighted avg": 0.919,
+        "macro_wo_O": 0.727
+    },
+    "support": {
+        "I-Background": 16.0,
+        "I-Other": 32.0,
+        "I-Problem": 201.0,
+        "I-Test": 53.0,
+        "I-Treatment": 55.0,
+        "O": 1492.0,
+        "accuracy": 0.922,
+        "macro avg": 1849.0,
+        "weighted avg": 1849.0,
+        "macro_wo_O": 357.0
+    }
+}

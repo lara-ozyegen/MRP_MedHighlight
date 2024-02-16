@@ -403,4 +403,6 @@ models/
 bert-finetuned-ner/
 bert-finetuned-ner-accelerate/
 lstm/
+analysis/doc-patient/graphs/
+analysis/mtsamples/graphs/
 
