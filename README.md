@@ -9,9 +9,6 @@ This repository contains the implementation of the major research project titled
 - [Models](#models)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -43,3 +40,12 @@ The repository includes implementations of the following models:
    ```bash
    git clone https://github.com/lara-ozyegen/MRP_MedHighlight.git
    cd MRP_MedHighlight
+
+## Usage
+
+The BERT-finetuning and adaptive fine-tuning codes can be found under the `notebooks` directory.
+
+- **BERT-CRF**: A combination of BERT and Conditional Random Fields (CRF) for enhanced sequence prediction. The implementation used in this project is available [here](https://github.com/shushanxingzhe/transformers_ner).
+- **ACE (Automated Concatenation of Embeddings)**: Integrates multiple embedding representations of text for optimized word embedding. The code used for ACE in this project is available [here](https://github.com/Alibaba-NLP/ACE).
+- **Unsupervised Learning**: Utilizes the unlabeled MTSamples dataset. The code is available [here](https://github.com/UKPLab/sentence-transformers/tree/master/examples/unsupervised_learning/MLM).
+
